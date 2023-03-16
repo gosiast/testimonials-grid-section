@@ -1,7 +1,9 @@
-body {
+.reviews-container {
   font-family: 'League Spartan', sans-serif;
+  font-weight: 500;
+  margin-top: 50px;
 }
 
-color {
-    
+footer {
+    text-align: center;
 }

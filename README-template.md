@@ -47,18 +47,19 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Built with
 
-- Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
 - [Styled Components](https://styled-components.com/) - For styles
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
+
+I learned that coding is always about patience. I was stuck at the beginning because of Prettier configurations and tried everything to fix it- checked videos, reinstalled the program. Nothing worked. Gladly, Frontend Mentor community helped, and my issue was misspelled name of the '.prettierrc' file. 
+I learnt how important it is to spell each word correctly. 
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
@@ -97,11 +98,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Malgorzata Stano](https://malgorzatastano.netlify.app/)
+- Frontend Mentor - [@gosiast](https://www.frontendmentor.io/profile/gosiast)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
