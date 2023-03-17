@@ -30,7 +30,12 @@ body {
 .jeanette-verified-student,
 .kira-verified-student,
 .patrick-verified-student,
-.jonathan-verified-student {
+.jonathan-verified-student,
+.daniel-quote,
+.jonathan-quote,
+.jeanette-quote,
+.patrick-quote,
+.kira-quote {
   opacity: 50%;
 }
 
@@ -48,14 +53,19 @@ body {
 }
 .jeanette-review {
   background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .patrick-review {
   background-color: hsl(219, 29%, 14%);
   color: white;
 }
+
+.kira-review {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
 footer {
   text-align: center;
 }
 
-//* @media (max-height: ) *//
+/* @media (max-height: ) */
