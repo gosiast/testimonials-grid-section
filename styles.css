@@ -17,6 +17,10 @@ body {
   font-size: 15px;
 }
 
+.image-daniel , .image-patrick, .image-jonathan, .image-kira, .image-jeanette{
+  border-radius: 50px;
+}
+
 .jonathan-review {
   background-color: hsl(217, 19%, 35%);
 }
