@@ -10,8 +10,7 @@ body {
 .daniel-review {
   background-color: hsl(263, 55%, 52%);
   color: white;
-    border-radius: 10px;
-
+  border-radius: 10px;
 }
 .daniel-highlighted-quote,
 .patrick-highlighted-quote,
