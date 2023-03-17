@@ -1,6 +1,6 @@
 # Frontend Mentor - Testimonials grid section solution
 
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -32,7 +32,7 @@ Users should be able to:
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
 
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
@@ -58,8 +58,11 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-I learned that coding is always about patience. I was stuck at the beginning because of Prettier configurations and tried everything to fix it- checked videos, reinstalled the program. Nothing worked. Gladly, Frontend Mentor community helped, and my issue was misspelled name of the '.prettierrc' file. 
-I learnt how important it is to spell each word correctly. 
+1. I learned that coding is always about patience. I was stuck at the beginning because of Prettier configurations and tried everything to fix it- checked videos, reinstalled the program. Nothing worked. Gladly, Frontend Mentor community helped, and my issue was misspelled name of the '.prettierrc' file.
+   I learnt how important it is to spell each word correctly.
+2. I had to review the difference between divs and spans (https://blog.hubspot.com/website/span-vs-div#:~:text=Span%20and%20div%20are%20both,for%20inline%20organization%20and%20styling.)
+
+---
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
@@ -68,15 +71,17 @@ To see how you can add code snippets, see below:
 ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
+
 ```css
 .proud-of-this-css {
   color: papayawhip;
 }
 ```
+
 ```js
 const proudOfThisFunc = () => {
-  console.log('🎉')
-}
+  console.log('🎉');
+};
 ```
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
@@ -100,7 +105,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - Website - [Malgorzata Stano](https://malgorzatastano.netlify.app/)
 - Frontend Mentor - [@gosiast](https://www.frontendmentor.io/profile/gosiast)
-
 
 ## Acknowledgments
 

@@ -5,6 +5,7 @@ body {
   font-family: 'League Spartan', sans-serif;
   margin: 50px;
   font-size: 13px;
+  padding: 50px;
 }
 .daniel-review {
   background-color: hsl(263, 55%, 52%);
@@ -13,11 +14,23 @@ body {
 }
 .daniel-highlighted-quote {
   font-weight: 500;
-  
-  font-size: 15px;
+  font-size: 25px;
+  line-height: normal;
 }
 
-.image-daniel , .image-patrick, .image-jonathan, .image-kira, .image-jeanette{
+.daniel-verified-student,
+.jeanette-verified-student,
+.kira-verified-student,
+.patrick-verified-student,
+.jonathan-verified-student {
+  opacity: 50%;
+}
+
+.image-daniel,
+.image-patrick,
+.image-jonathan,
+.image-kira,
+.image-jeanette {
   border-radius: 50px;
 }
 
@@ -35,6 +48,5 @@ body {
 footer {
   text-align: center;
 }
-
 
 //* @media (max-height: ) *//
