@@ -12,12 +12,20 @@ body {
   color: white;
   border-radius: 7px;
 }
-.daniel-highlighted-quote {
+.daniel-highlighted-quote,
+.patrick-highlighted-quote,
+.jonathan-highlighted-quote {
   font-weight: 500;
   font-size: 25px;
   line-height: normal;
 }
 
+.jeanette-highlighted-quote,
+.kira-highlighted-quote {
+  font-weight: 500;
+  font-size: 25px;
+  line-height: normal;
+}
 .daniel-verified-student,
 .jeanette-verified-student,
 .kira-verified-student,
@@ -36,6 +44,7 @@ body {
 
 .jonathan-review {
   background-color: hsl(217, 19%, 35%);
+  color: white;
 }
 .jeanette-review {
   background-color: white;

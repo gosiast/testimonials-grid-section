@@ -61,6 +61,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 1. I learned that coding is always about patience. I was stuck at the beginning because of Prettier configurations and tried everything to fix it- checked videos, reinstalled the program. Nothing worked. Gladly, Frontend Mentor community helped, and my issue was misspelled name of the '.prettierrc' file.
    I learnt how important it is to spell each word correctly.
 2. I had to review the difference between divs and spans (https://blog.hubspot.com/website/span-vs-div#:~:text=Span%20and%20div%20are%20both,for%20inline%20organization%20and%20styling.)
+3. I need to pay attention to opening and closing tags, sometimes they pop up due to the formatting and I lose track of them.
 
 ---
 
