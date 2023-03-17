@@ -1,5 +1,5 @@
 body {
-  background-color: yellow;
+  background-color: hsl(0, 2%, 90%);
 }
 .reviews-container {
   font-family: 'League Spartan', sans-serif;
@@ -10,7 +10,8 @@ body {
 .daniel-review {
   background-color: hsl(263, 55%, 52%);
   color: white;
-  border-radius: 7px;
+    border-radius: 10px;
+
 }
 .daniel-highlighted-quote,
 .patrick-highlighted-quote,
@@ -30,12 +31,7 @@ body {
 .jeanette-verified-student,
 .kira-verified-student,
 .patrick-verified-student,
-.jonathan-verified-student,
-.daniel-quote,
-.jonathan-quote,
-.jeanette-quote,
-.patrick-quote,
-.kira-quote {
+.jonathan-verified-student {
   opacity: 50%;
 }
 
@@ -47,6 +43,13 @@ body {
   border-radius: 50px;
 }
 
+.daniel-quote,
+.jonathan-quote,
+.jeanette-quote,
+.patrick-quote,
+.kira-quote {
+  opacity: 70%;
+}
 .jonathan-review {
   background-color: hsl(217, 19%, 35%);
   color: white;
@@ -63,6 +66,7 @@ body {
 
 .kira-review {
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  background-color: white;
 }
 footer {
   text-align: center;

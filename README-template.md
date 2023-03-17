@@ -60,8 +60,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 1. I learned that coding is always about patience. I was stuck at the beginning because of Prettier configurations and tried everything to fix it- checked videos, reinstalled the program. Nothing worked. Gladly, Frontend Mentor community helped, and my issue was misspelled name of the '.prettierrc' file.
    I learnt how important it is to spell each word correctly.
-2. I had to review the difference between divs and spans (https://blog.hubspot.com/website/span-vs-div#:~:text=Span%20and%20div%20are%20both,for%20inline%20organization%20and%20styling.)
+2. I had to review the difference between divs and spans because it was better to use a span instead of div in the section with the name and verified student content.
 3. I need to pay attention to opening and closing tags, sometimes they pop up due to the formatting and I lose track of them.
+4. My body tag was not working, and it was because the style link was at the top of other links. That's why body design is not working. Putting style link under all the links made it work properly!
 
 ---
 
@@ -97,7 +98,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [Difference between divs and spans](<(https://blog.hubspot.com/website/span-vs-div#:~:text=Span%20and%20div%20are%20both,for%20inline%20organization%20and%20styling.)>) -
+
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
