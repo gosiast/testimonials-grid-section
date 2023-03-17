@@ -75,15 +75,10 @@ To see how you can add code snippets, see below:
 ```
 
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+thishelped me align elements: .container {
+  display: flex;
+  justify-content: space-between;
 }
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉');
-};
 ```
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
@@ -100,7 +95,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - [Difference between divs and spans](<(https://blog.hubspot.com/website/span-vs-div#:~:text=Span%20and%20div%20are%20both,for%20inline%20organization%20and%20styling.)>) -
 
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Flexbox review ](https://frontlive.pl/blog/css-flexbox) - This is an article which helped me revew Flexbox and aligning elements. I'd recommend it to anyone still learning this concept.
 
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
