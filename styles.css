@@ -56,20 +56,24 @@ body {
 .jonathan-review {
   background-color: hsl(217, 19%, 35%);
   color: white;
+  border-radius: 10px;
 }
 .jeanette-review {
   background-color: white;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 10px;
 }
 
 .patrick-review {
   background-color: hsl(219, 29%, 14%);
   color: white;
+  border-radius: 10px;
 }
 
 .kira-review {
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   background-color: white;
+  border-radius: 10px;
 }
 footer {
   text-align: center;
