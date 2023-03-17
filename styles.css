@@ -1,6 +1,9 @@
+body {
+  background-color: yellow;
+}
 .reviews-container {
   font-family: 'League Spartan', sans-serif;
-  margin-top: 50px;
+  margin: 50px;
   font-size: 13px;
 }
 .daniel-review {
@@ -13,6 +16,21 @@
   
   font-size: 15px;
 }
+
+.jonathan-review {
+  background-color: hsl(217, 19%, 35%);
+}
+.jeanette-review {
+  background-color: white;
+}
+
+.patrick-review {
+  background-color: hsl(219, 29%, 14%);
+  color: white;
+}
 footer {
   text-align: center;
 }
+
+
+//* @media (max-height: ) *//
