@@ -2,8 +2,6 @@ body {
   background-color: hsl(0, 2%, 90%);
 }
 .container {
-  display: flex;
-  justify-content: space-between;
 }
 .reviews-container {
   font-family: 'League Spartan', sans-serif;
@@ -79,4 +77,8 @@ footer {
   text-align: center;
 }
 
-/* @media (max-height: ) */
+@media (min-width: 600px) {
+  .container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
