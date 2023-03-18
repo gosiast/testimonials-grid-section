@@ -40,7 +40,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://testimonials-grid-section-mstano.netlify.app/)
+- Solution URL: [https://testimonials-grid-section-mstano.netlify.app/]
 - Live Site URL: [My Testimonials Grid Section Challenge](https://testimonials-grid-section-mstano.netlify.app/)
 
 ## My process
@@ -51,7 +51,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
 - [Styled Components](https://styled-components.com/) - For styles
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
@@ -75,10 +74,13 @@ To see how you can add code snippets, see below:
 ```
 
 ```css
-thishelpedme align elements: .container {
+this helped me align elements:
+.container {
   display: flex;
   justify-content: space-between;
 }
+
+col-md helped with grid to be responsive on mobile devices
 ```
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
