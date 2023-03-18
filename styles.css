@@ -1,13 +1,15 @@
 body {
   background-color: hsl(0, 2%, 90%);
 }
-.container {
-}
 .reviews-container {
   font-family: 'League Spartan', sans-serif;
   margin: 50px;
-  font-size: 13px;
-  padding: 50px;
+  font-size: 14px;
+  font-weight: lighter;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  line-height: 1.5;
 }
 .daniel-review {
   background-color: hsl(263, 55%, 52%);
@@ -75,4 +77,8 @@ body {
 }
 footer {
   text-align: center;
+}
+
+a {
+  text-decoration: none;
 }
