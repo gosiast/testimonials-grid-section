@@ -62,6 +62,10 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 2. I had to review the difference between divs and spans because it was better to use a span instead of div in the section with the name and verified student content.
 3. I need to pay attention to opening and closing tags, sometimes they pop up due to the formatting and I lose track of them.
 4. My body tag was not working, and it was because the style link was at the top of other links. That's why body design is not working. Putting style link under all the links made it work properly!
+5. It was hard to understand how background quotation should look like. I learned about background-repeat css selector.
+(https://www.w3schools.com/cssref/pr_background-repeat.php)
+6. Background image can also be positioned if we use background-position
+(https://developer.mozilla.org/en-US/docs/Web/CSS/background-position-x)
 
 ---
 
