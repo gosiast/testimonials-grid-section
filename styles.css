@@ -9,7 +9,7 @@ body {
   padding-top: 50px;
   padding-left: 80px;
   padding-right: 80px;
-  line-height: 1.5;
+  line-height: 1.25;
 }
 .daniel-review {
   background-color: hsl(263, 55%, 52%);
@@ -19,19 +19,18 @@ body {
   color: white;
   border-radius: 10px;
 }
+
 .daniel-highlighted-quote,
 .patrick-highlighted-quote,
 .jonathan-highlighted-quote {
   font-weight: 500;
-  font-size: 25px;
-  line-height: normal;
+  font-size: 20px;
 }
 
 .jeanette-highlighted-quote,
 .kira-highlighted-quote {
   font-weight: 500;
   font-size: 25px;
-  line-height: normal;
 }
 .daniel-verified-student,
 .jeanette-verified-student,
@@ -57,6 +56,15 @@ body {
 .kira-quote {
   opacity: 70%;
 }
+
+.jonathan-review,
+.patrick-review,
+.jeanette-review,
+.kira-review,
+.daniel-review {
+  padding: 25px;
+}
+
 .jonathan-review {
   background-color: hsl(217, 19%, 35%);
   color: white;
