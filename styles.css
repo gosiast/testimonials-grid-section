@@ -10,6 +10,10 @@ body {
   padding-right: 80px;
   line-height: 1.25;
 }
+
+.reviews-container row {
+  gap: 50vw;
+}
 .daniel-review {
   background-color: hsl(263, 55%, 52%);
   background-image: url(/images/bg-pattern-quotation.svg);
@@ -21,9 +25,13 @@ body {
 
 .daniel-highlighted-quote,
 .patrick-highlighted-quote,
-.jonathan-highlighted-quote {
+.jonathan-highlighted-quote,
+.jeanette-highlighted-quote,
+.kira-highlighted-quote {
   font-weight: 500;
-  font-size: 20px;
+  font-size: 18px;
+  line-height: 1.1;
+  padding-bottom: 15px;
 }
 
 .jeanette-highlighted-quote,
@@ -53,7 +61,7 @@ body {
 .jeanette-quote,
 .patrick-quote,
 .kira-quote {
-  opacity: 70%;
+  opacity: 50%;
 }
 
 .jonathan-review,
