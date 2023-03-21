@@ -14,7 +14,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -53,8 +52,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Mobile-first workflow
 - [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 1. I learned that coding is always about patience. I was stuck at the beginning because of Prettier configurations and tried everything to fix it- checked videos, reinstalled the program. Nothing worked. Gladly, Frontend Mentor community helped, and my issue was misspelled name of the '.prettierrc' file.
@@ -89,21 +86,17 @@ col-md helped with grid to be responsive on mobile devices
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+- I'm still struggling with using margins and paddings properly. I find it difficult to align elements and make them resposive on different devices. I need to work on that
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
 ### Useful resources
 
 - [Difference between divs and spans](<(https://blog.hubspot.com/website/span-vs-div#:~:text=Span%20and%20div%20are%20both,for%20inline%20organization%20and%20styling.)>) -
 
 - [Flexbox review ](https://frontlive.pl/blog/css-flexbox) - This is an article which helped me revew Flexbox and aligning elements. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
@@ -112,6 +105,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Thank you Frontend Mentor community for your support and feedback whenever I got stuck!
